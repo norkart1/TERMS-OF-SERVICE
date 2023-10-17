@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+body {
+  font-family: 'Young Serif', serif;
+  margin: 0;
+  padding: 0;
+}
+.heading h1 {
+  font-size: 1.5rem;
+  text-align: center;
+  align-items: center;
+  background-color: green;
+  margin-right: 5px;
+  margin-left: 5px;
+  color: #fff;
+  padding-top:7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+}
+.content h3 {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  padding: 3px;
+  
+}
